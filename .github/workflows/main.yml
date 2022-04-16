@@ -61,4 +61,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: ваш-логин-на-docker-hub/ваш-репозиторий-на-docker-hub:latest
+          tags: evgen4567/infra_actions:v16.04.2022
